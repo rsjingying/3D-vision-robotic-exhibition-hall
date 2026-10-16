@@ -1,0 +1,88 @@
+[
+  {
+    "frame": 110,
+    "check": "cup to carton-top contact",
+    "error_m": 0.0,
+    "passed": true
+  },
+  {
+    "frame": 116,
+    "check": "cup to carton-top contact",
+    "error_m": 0.0,
+    "passed": true
+  },
+  {
+    "frame": 134,
+    "check": "cup to carton-top contact",
+    "error_m": 0.0,
+    "passed": true
+  },
+  {
+    "frame": 160,
+    "check": "cup to carton-top contact",
+    "error_m": 0.0,
+    "passed": true
+  },
+  {
+    "frame": 186,
+    "check": "cup to carton-top contact",
+    "error_m": 0.0,
+    "passed": true
+  },
+  {
+    "frame": 192,
+    "check": "carton bottom on outfeed",
+    "error_m": 0.0,
+    "passed": true
+  },
+  {
+    "frame": 205,
+    "check": "carton bottom on outfeed",
+    "error_m": 0.0,
+    "passed": true
+  },
+  {
+    "frame": 225,
+    "check": "carton bottom on outfeed",
+    "error_m": 0.0,
+    "passed": true
+  },
+  {
+    "frame": 264,
+    "check": "load follows AGV",
+    "relative": [
+      0.0,
+      0.0,
+      1.3250000476837158
+    ],
+    "passed": true
+  },
+  {
+    "frame": 310,
+    "check": "load follows AGV",
+    "relative": [
+      0.0,
+      0.0,
+      1.3250000476837158
+    ],
+    "passed": true
+  },
+  {
+    "frame": 360,
+    "check": "load follows AGV",
+    "relative": [
+      0.0,
+      0.0,
+      1.3250000476837158
+    ],
+    "passed": true
+  },
+  {
+    "check": "four edited shots",
+    "passed": true
+  },
+  {
+    "check": "720p / 24fps / 360 frames",
+    "passed": true
+  }
+]

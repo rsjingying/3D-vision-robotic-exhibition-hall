@@ -1,0 +1,170 @@
+[
+  {
+    "brand": "kuka",
+    "repo": "ros-industrial/kuka_experimental",
+    "commit": "8d9292b04a22628b1b78d989e2ddd3abb913bf92",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/ros-industrial/kuka_experimental/8d9292b04a22628b1b78d989e2ddd3abb913bf92/LICENSE",
+    "sha256": "6dc0e068dcf3a5bc8e054205b85b7720e1d49265bbc64bf515d2cf79197df69a"
+  },
+  {
+    "brand": "kuka",
+    "repo": "ros-industrial/kuka_experimental",
+    "commit": "8d9292b04a22628b1b78d989e2ddd3abb913bf92",
+    "path": "kuka_kr210_support/meshes/kr210l150/visual/base_link.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/kuka_experimental/8d9292b04a22628b1b78d989e2ddd3abb913bf92/kuka_kr210_support/meshes/kr210l150/visual/base_link.dae",
+    "sha256": "9d5a96298a01e9523d432b7ca6a63a6536dee1f2a76f67f507e0547c61515fb3"
+  },
+  {
+    "brand": "kuka",
+    "repo": "ros-industrial/kuka_experimental",
+    "commit": "8d9292b04a22628b1b78d989e2ddd3abb913bf92",
+    "path": "kuka_kr210_support/meshes/kr210l150/visual/link_1.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/kuka_experimental/8d9292b04a22628b1b78d989e2ddd3abb913bf92/kuka_kr210_support/meshes/kr210l150/visual/link_1.dae",
+    "sha256": "bbe5120b85c878f9e213a69fb4a4cc14bb01dd42174558c3fc69741b91e0b498"
+  },
+  {
+    "brand": "kuka",
+    "repo": "ros-industrial/kuka_experimental",
+    "commit": "8d9292b04a22628b1b78d989e2ddd3abb913bf92",
+    "path": "kuka_kr210_support/meshes/kr210l150/visual/link_2.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/kuka_experimental/8d9292b04a22628b1b78d989e2ddd3abb913bf92/kuka_kr210_support/meshes/kr210l150/visual/link_2.dae",
+    "sha256": "9edcef10d1bffa748d46fe5978a52b5612f232d5473a50265f47ffdc812373df"
+  },
+  {
+    "brand": "kuka",
+    "repo": "ros-industrial/kuka_experimental",
+    "commit": "8d9292b04a22628b1b78d989e2ddd3abb913bf92",
+    "path": "kuka_kr210_support/meshes/kr210l150/visual/link_3.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/kuka_experimental/8d9292b04a22628b1b78d989e2ddd3abb913bf92/kuka_kr210_support/meshes/kr210l150/visual/link_3.dae",
+    "sha256": "03211f967ce5fa38a65bb7647ca13ebadc8bcd5003f62b5641bd51824ddebbfd"
+  },
+  {
+    "brand": "kuka",
+    "repo": "ros-industrial/kuka_experimental",
+    "commit": "8d9292b04a22628b1b78d989e2ddd3abb913bf92",
+    "path": "kuka_kr210_support/meshes/kr210l150/visual/link_4.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/kuka_experimental/8d9292b04a22628b1b78d989e2ddd3abb913bf92/kuka_kr210_support/meshes/kr210l150/visual/link_4.dae",
+    "sha256": "48589df2dd03bfdf1c7cb082a5fc132eae8b1adaf4715734b61adc0086a9666a"
+  },
+  {
+    "brand": "kuka",
+    "repo": "ros-industrial/kuka_experimental",
+    "commit": "8d9292b04a22628b1b78d989e2ddd3abb913bf92",
+    "path": "kuka_kr210_support/meshes/kr210l150/visual/link_5.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/kuka_experimental/8d9292b04a22628b1b78d989e2ddd3abb913bf92/kuka_kr210_support/meshes/kr210l150/visual/link_5.dae",
+    "sha256": "7f2b39c01e90692595963151f6a487773fc3a3ece5bae48c09b62e6ec488f204"
+  },
+  {
+    "brand": "kuka",
+    "repo": "ros-industrial/kuka_experimental",
+    "commit": "8d9292b04a22628b1b78d989e2ddd3abb913bf92",
+    "path": "kuka_kr210_support/meshes/kr210l150/visual/link_6.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/kuka_experimental/8d9292b04a22628b1b78d989e2ddd3abb913bf92/kuka_kr210_support/meshes/kr210l150/visual/link_6.dae",
+    "sha256": "d57c667f7d584c9de975881a09e503d90bb89815842673f5229b5e3084dbf788"
+  },
+  {
+    "brand": "kuka",
+    "repo": "ros-industrial/kuka_experimental",
+    "commit": "8d9292b04a22628b1b78d989e2ddd3abb913bf92",
+    "path": "kuka_kr210_support/package.xml",
+    "url": "https://raw.githubusercontent.com/ros-industrial/kuka_experimental/8d9292b04a22628b1b78d989e2ddd3abb913bf92/kuka_kr210_support/package.xml",
+    "sha256": "04914b596948a4bcc6de456e00199561a9d19580443ef50243ab2fc420671db5"
+  },
+  {
+    "brand": "kuka",
+    "repo": "ros-industrial/kuka_experimental",
+    "commit": "8d9292b04a22628b1b78d989e2ddd3abb913bf92",
+    "path": "kuka_kr210_support/urdf/kr210l150.urdf",
+    "url": "https://raw.githubusercontent.com/ros-industrial/kuka_experimental/8d9292b04a22628b1b78d989e2ddd3abb913bf92/kuka_kr210_support/urdf/kr210l150.urdf",
+    "sha256": "71de825db18bd58f08b04df9fd6910c7ee471509ba8519f833e638a9a313e19d"
+  },
+  {
+    "brand": "kuka",
+    "repo": "ros-industrial/kuka_experimental",
+    "commit": "8d9292b04a22628b1b78d989e2ddd3abb913bf92",
+    "path": "kuka_kr210_support/urdf/kr210l150_macro.xacro",
+    "url": "https://raw.githubusercontent.com/ros-industrial/kuka_experimental/8d9292b04a22628b1b78d989e2ddd3abb913bf92/kuka_kr210_support/urdf/kr210l150_macro.xacro",
+    "sha256": "1cc021a22b4e8634a1be76a737192a817944c7e4c56f5b216c670727686451b1"
+  },
+  {
+    "brand": "abb",
+    "repo": "ros-industrial/abb",
+    "commit": "45f4769d826cf3ac62a65495f2db67b78b0c81df",
+    "path": "abb_irb4600_support/LICENSE",
+    "url": "https://raw.githubusercontent.com/ros-industrial/abb/45f4769d826cf3ac62a65495f2db67b78b0c81df/abb_irb4600_support/LICENSE",
+    "sha256": "074e6e32c86a4c0ef8b3ed25b721ca23aca83df277cd88106ef7177c354615ff"
+  },
+  {
+    "brand": "abb",
+    "repo": "ros-industrial/abb",
+    "commit": "45f4769d826cf3ac62a65495f2db67b78b0c81df",
+    "path": "abb_irb4600_support/meshes/irb4600/visual/base_link.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/abb/45f4769d826cf3ac62a65495f2db67b78b0c81df/abb_irb4600_support/meshes/irb4600/visual/base_link.dae",
+    "sha256": "c225763a94be8a5d002f55b1ef30b266dd747e115e72ece126decfed672a4332"
+  },
+  {
+    "brand": "abb",
+    "repo": "ros-industrial/abb",
+    "commit": "45f4769d826cf3ac62a65495f2db67b78b0c81df",
+    "path": "abb_irb4600_support/meshes/irb4600/visual/link_1.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/abb/45f4769d826cf3ac62a65495f2db67b78b0c81df/abb_irb4600_support/meshes/irb4600/visual/link_1.dae",
+    "sha256": "d33635b7ee23fd57c1ab5cf2b2ac4bb3ea8197d877c4119873d6828ad75d60e8"
+  },
+  {
+    "brand": "abb",
+    "repo": "ros-industrial/abb",
+    "commit": "45f4769d826cf3ac62a65495f2db67b78b0c81df",
+    "path": "abb_irb4600_support/meshes/irb4600_40_255/visual/link_2.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/abb/45f4769d826cf3ac62a65495f2db67b78b0c81df/abb_irb4600_support/meshes/irb4600_40_255/visual/link_2.dae",
+    "sha256": "2b557faf78fe263d5ef9d07e696d877c6f149f9f134a673610376093089235e5"
+  },
+  {
+    "brand": "abb",
+    "repo": "ros-industrial/abb",
+    "commit": "45f4769d826cf3ac62a65495f2db67b78b0c81df",
+    "path": "abb_irb4600_support/meshes/irb4600_40_255/visual/link_3.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/abb/45f4769d826cf3ac62a65495f2db67b78b0c81df/abb_irb4600_support/meshes/irb4600_40_255/visual/link_3.dae",
+    "sha256": "714d7349e36466a2b158a94717195327e5b9c55f186f13d3ba58dc4595914997"
+  },
+  {
+    "brand": "abb",
+    "repo": "ros-industrial/abb",
+    "commit": "45f4769d826cf3ac62a65495f2db67b78b0c81df",
+    "path": "abb_irb4600_support/meshes/irb4600_40_255/visual/link_4.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/abb/45f4769d826cf3ac62a65495f2db67b78b0c81df/abb_irb4600_support/meshes/irb4600_40_255/visual/link_4.dae",
+    "sha256": "4dc4f880f720bc74dc5610c50e325825958e9733ec9661156234ee2489227789"
+  },
+  {
+    "brand": "abb",
+    "repo": "ros-industrial/abb",
+    "commit": "45f4769d826cf3ac62a65495f2db67b78b0c81df",
+    "path": "abb_irb4600_support/meshes/irb4600_40_255/visual/link_5.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/abb/45f4769d826cf3ac62a65495f2db67b78b0c81df/abb_irb4600_support/meshes/irb4600_40_255/visual/link_5.dae",
+    "sha256": "d069e337f5444fc7c411e204065fcf35acbc9d64641a25569fe71b4d320b1a12"
+  },
+  {
+    "brand": "abb",
+    "repo": "ros-industrial/abb",
+    "commit": "45f4769d826cf3ac62a65495f2db67b78b0c81df",
+    "path": "abb_irb4600_support/meshes/irb4600_40_255/visual/link_6.dae",
+    "url": "https://raw.githubusercontent.com/ros-industrial/abb/45f4769d826cf3ac62a65495f2db67b78b0c81df/abb_irb4600_support/meshes/irb4600_40_255/visual/link_6.dae",
+    "sha256": "f27c99b2038575d7d8711190dc3fe1cf6f9558da16afffa265c333ca76ad9a5b"
+  },
+  {
+    "brand": "abb",
+    "repo": "ros-industrial/abb",
+    "commit": "45f4769d826cf3ac62a65495f2db67b78b0c81df",
+    "path": "abb_irb4600_support/package.xml",
+    "url": "https://raw.githubusercontent.com/ros-industrial/abb/45f4769d826cf3ac62a65495f2db67b78b0c81df/abb_irb4600_support/package.xml",
+    "sha256": "d82eaa5c3ac2d264a270e77c5c4fa49339e7386ddf43c108a61f591b2cf6942a"
+  },
+  {
+    "brand": "abb",
+    "repo": "ros-industrial/abb",
+    "commit": "45f4769d826cf3ac62a65495f2db67b78b0c81df",
+    "path": "abb_irb4600_support/urdf/irb4600_40_255_macro.xacro",
+    "url": "https://raw.githubusercontent.com/ros-industrial/abb/45f4769d826cf3ac62a65495f2db67b78b0c81df/abb_irb4600_support/urdf/irb4600_40_255_macro.xacro",
+    "sha256": "006e4cfccf1120d6503e44a7f5286fabf534037f4d91ec9b7cafbc595cd08f8d"
+  }
+]

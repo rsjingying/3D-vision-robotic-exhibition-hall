@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+.openai/
+animation/**/frames/
+animation/**/previews/
+*.blend1
+*.blend2

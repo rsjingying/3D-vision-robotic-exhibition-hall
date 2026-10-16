@@ -1,0 +1,14 @@
+{
+  "name": "3d-vision-robotic-exhibition-hall",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "VISION FLOW industrial robot and 3D vision exhibition hall",
+  "scripts": {
+    "start": "python3 -m http.server 8080 --bind 127.0.0.1 --directory dist",
+    "check": "node checks/verify-motion.mjs && node checks/verify-vision.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
